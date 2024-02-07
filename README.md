@@ -1,0 +1,3 @@
+This is a Foundry Virtual Tabletop https://foundryvtt.com implementation of most of [OUTCLASSED: The NPC Statblock Compendium](https://www.dmsguild.com/product/302037/OUTCLASSED-The-NPC-Statblock-Compendium) by William Rotor.
+
+All credits on the creation of the Actors of this module go to [MisterJackP](https://github.com/MisterJackP/OutclassedNPCFoundry) for importing all statblocks from the pdf and creating the original db file. This module just makes it easier to install and updates it to Foundry v11.
