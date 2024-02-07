@@ -1,0 +1,38 @@
+{
+  "id": "dnd-5e-outclassed",
+  "title": "DnD 5e - Outclassed",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "RackoSan",
+      "flags": {}
+    },
+    {
+      "name": "MisterJackP",
+      "flags": {}
+    },
+    {
+      "name": "William Rotor",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/MisterJackP/OutclassedNPCFoundry",
+  "packs": [
+    {
+      "name": "outclassed-npcs",
+      "label": "Outclassed NPCs",
+      "path": "packs/outclassed-npcs",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
