@@ -8,31 +8,27 @@
   },
   "authors": [
     {
-      "name": "RackoSan",
-      "flags": {}
+      "name": "RackoSan"
     },
     {
-      "name": "MisterJackP",
-      "flags": {}
+      "name": "MisterJackP"
     },
     {
-      "name": "William Rotor",
-      "flags": {}
+      "name": "William Rotor"
     }
   ],
-  "url": "https://github.com/MisterJackP/OutclassedNPCFoundry",
+  "url": "https://github.com/rannieryjesuino/fvtt-dnd-5e-outclassed",
   "packs": [
     {
       "name": "outclassed-npcs",
       "label": "Outclassed NPCs",
       "path": "packs/outclassed-npcs",
       "type": "Actor",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
+      }
     }
   ]
 }
