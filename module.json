@@ -15,9 +15,12 @@
     },
     {
       "name": "William Rotor"
+    },
+    {
+      "name": "John Brecht"
     }
   ],
-  "url": "https://github.com/rannieryjesuino/fvtt-dnd-5e-outclassed",
+  "url": "https://github.com/jbrecht/fvtt-dnd-5e-outclassed",
   "packs": [
     {
       "name": "outclassed-npcs",
