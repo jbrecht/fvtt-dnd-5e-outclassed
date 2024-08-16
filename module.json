@@ -22,7 +22,7 @@
     {
       "name": "outclassed-npcs",
       "label": "Outclassed NPCs",
-      "path": "packs/outclassed-npcs/outclassed-npcs.db",
+      "path": "./packs/outclassed-npcs/outclassed-npcs.db",
       "type": "Actor",
       "system": "dnd5e",
       "ownership": {
